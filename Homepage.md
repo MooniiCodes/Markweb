@@ -4,7 +4,7 @@
 
 ![Image](logobanner.png)
 
-[Documentation](Docs.md)
+[Documentation](Docs.md) [Credits](Credits.md)
 
 :::screen bottom
 
