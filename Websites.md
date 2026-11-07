@@ -1,9 +1,9 @@
-:::pages title="Featured Websites"
+:::pages title="Websites"
 :::screen bottom
 
 # Websites
-Featured websites you should try out!
+Websites that people added to here for you to try!
 
 :::screen top
 
-No featured websites. Come back later!
+No added websites. Come back later!
