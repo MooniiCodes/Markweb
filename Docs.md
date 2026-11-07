@@ -3,7 +3,7 @@
 
 ## This documentation is written by a AI model.
 
-If anything is wrong about the documentation, make a issue [here](https://github.com/MooniiCodes/Markweb/).
+If anything is wrong about the documentation, make a issue [here]!(https://github.com/MooniiCodes/Markweb/).
 
 ## Introduction
 
