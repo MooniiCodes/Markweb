@@ -256,5 +256,3 @@ Optional app data path:
 
 ## This documentation is written by a AI model.
 
-If anything is wrong about the documentation, make a issue https://github.com/MooniiCodes/Markweb.
-
