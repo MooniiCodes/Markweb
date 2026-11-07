@@ -8,4 +8,5 @@
 
 Press **[START]** to enable the **cursor**.
 
-[Documentation](Docs.md) [Credits](Credits.md)
+[Documentation](Docs.md)
+[Credits](Credits.md)
