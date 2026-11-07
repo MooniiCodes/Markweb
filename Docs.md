@@ -4,7 +4,7 @@
 > [!WARNING]
 > This documentation is written by a AI model.
 > 
-> If anything is wrong about the documentation, make a issue https://github.com/MooniiCodes/Markweb/ (Please view it on your phone or PC).
+> If anything is wrong about the documentation, make a issue [here](https://github.com/MooniiCodes/Markweb/).
 
 MarkWeb is an AuroraOS 3DS app that renders **Markdown pages** (from `http://`/`https://` URLs or local files). It is not a full browser: it does not run JavaScript/CSS engines. Instead, it renders a supported subset of Markdown/HTML plus **Aurora MarkWeb directives** (`:::` lines) for page metadata, styling, dual-screen layout, boxes, and links.
 
