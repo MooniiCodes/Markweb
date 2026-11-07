@@ -5,4 +5,6 @@
 
 Press **[START]** to enable the **cursor**.
 
+![Image](logo.png)
+
 [Documentation](Docs.md)
