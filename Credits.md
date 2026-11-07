@@ -6,6 +6,6 @@
 
 :::screen bottom
 
-$[Back](Homepage.md)
+[$Back](Homepage.md)
 
 ## LeweckBanana: Image and sound artist
