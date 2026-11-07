@@ -4,8 +4,8 @@
 
 ![Banner](IMG_0325.png)
 
-[Documentation](Docs.md) [Credits](Credits.md)
-
 :::screen bottom
 
 Press **[START]** to enable the **cursor**.
+
+[Documentation](Docs.md) [Credits](Credits.md)
