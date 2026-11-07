@@ -1,1 +1,11 @@
-
+{
+  "sites": [
+    {
+      "domain": "markweb.com",
+      "name": "MarkWeb",
+      "author": "MrMoonii",
+      "description": "Official MarkWeb website",
+      "url": "https://raw.githubusercontent.com/MooniiCodes/Markweb/main/Homepage.md"
+    }
+  ]
+}
