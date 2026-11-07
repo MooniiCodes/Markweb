@@ -8,4 +8,3 @@ Welcome to Markweb!
 This is the first "web browser" for AuroraOS, and soon going to be ported to other platforms.
 
 Since right now there is no real websites right now, I will supply some examples.
-AAA
