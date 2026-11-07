@@ -1,16 +1,6 @@
-:::page title="Documentation" :::style bg=#101418 link=#64e8c8 accent=#64e8c8 :::screen top
-# MarkWeb Documentation
-[Back](Homepage.md)
+:::screen top
 
-## This documentation is written by a AI model.
-
-If anything is wrong about the documentation, make a issue https://github.com/MooniiCodes/Markweb.
-
-## Introduction
-
-MarkWeb is an AuroraOS 3DS app that renders **Markdown pages** (from `http://`/`https://` URLs or local files). It is not a full browser: it does not run JavaScript/CSS engines. 
-
-Instead, it renders a supported subset of Markdown/HTML plus **Aurora MarkWeb directives** (`:::` lines) for page metadata, styling, dual-screen layout, boxes, and links.
+MarkWeb is an AuroraOS 3DS app that renders **Markdown pages** (from `http://`/`https://` URLs or local files). It is not a full browser: it does not run JavaScript/CSS engines. Instead, it renders a supported subset of Markdown/HTML plus **Aurora MarkWeb directives** (`:::` lines) for page metadata, styling, dual-screen layout, boxes, and links.
 
 ## 1. How MarkWeb opens pages
 
@@ -256,3 +246,12 @@ Copy:
 
 Optional app data path:
 - `SD:/Aurora/Apps/C/MarkWeb/config.txt`
+
+:::screen bottom
+
+# MarkWeb Documentation
+
+## This documentation is written by a AI model.
+
+If anything is wrong about the documentation, make a issue https://github.com/MooniiCodes/Markweb.
+
