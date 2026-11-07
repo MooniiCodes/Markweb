@@ -3,6 +3,6 @@
 :::screen top
 # Markweb Home
 
-Press **START** to enable the *cursor*.
+Press **[START]** to enable the **cursor**.
 
 [Documentation](Docs.md)
