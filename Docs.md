@@ -249,7 +249,7 @@ Optional app data path:
 - `SD:/Aurora/Apps/C/MarkWeb/config.txt`
 
 :::screen top
-[@Home](Homepage.md) [@# Docs](Docs.md) [@Credits](Credits.md) [@Websites](Websites.md) [@Featured](Featured.md)
+[$Home](Homepage.md) [$# Docs](Docs.md) [$Credits](Credits.md) [$Websites](Websites.md) [$Featured](Featured.md)
 
 # MarkWeb Documentation
 
