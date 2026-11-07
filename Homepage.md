@@ -4,6 +4,8 @@
 
 ![Image](logobanner.png)
 
-Press **[START]** to enable the **cursor**.
-
 [Documentation](Docs.md)
+
+:::screen bottom
+
+Press **[START]** to enable the **cursor**.
