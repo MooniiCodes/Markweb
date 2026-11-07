@@ -2,6 +2,6 @@
 
 ## MrMoonii: Developer and Owner
 
-:::bottom
+:::screen bottom
 
 ## LeweckBanana: Image and sound artist
