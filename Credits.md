@@ -4,10 +4,12 @@
 
 [$Home](Homepage.md) [$Docs](Docs.md) [$# Credits](Credits.md) [$Websites](Websites.md) [$Featured](Featured.md)
 
-# MrMoonii: Developer and Owner
+# Credits
+
+The people behind Markweb!
 
 :::screen bottom
 
-[$Back](Homepage.md)
+# MrMoonii: Developer and Owner
 
 # LeweckBanana: Image and sound artist
