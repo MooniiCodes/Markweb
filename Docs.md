@@ -251,7 +251,9 @@ Optional app data path:
 :::screen top
 [$Home](Homepage.md) [$# Docs](Docs.md) [$Credits](Credits.md) [$Websites](Websites.md) [$Featured](Featured.md)
 
-# MarkWeb Documentation
+# Documentation
+
+Learn how to code for Markweb!
 
 ## This documentation is written by a AI model.
 
