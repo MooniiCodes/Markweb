@@ -250,7 +250,7 @@ Optional app data path:
 
 :::screen bottom
 
-$[Back](Homepage.md)
+[$Back](Homepage.md)
 
 # MarkWeb Documentation
 
