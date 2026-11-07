@@ -1,5 +1,5 @@
-:::screen top
 :::page title="Documentation"
+:::screen bottom
 
 MarkWeb is an AuroraOS 3DS app that renders **Markdown pages** (from `http://`/`https://` URLs or local files). It is not a full browser: it does not run JavaScript/CSS engines. Instead, it renders a supported subset of Markdown/HTML plus **Aurora MarkWeb directives** (`:::` lines) for page metadata, styling, dual-screen layout, boxes, and links.
 
@@ -248,9 +248,8 @@ Copy:
 Optional app data path:
 - `SD:/Aurora/Apps/C/MarkWeb/config.txt`
 
-:::screen bottom
-
-[$Back](Homepage.md)
+:::screen top
+[@Home](Homepage.md) [@# Docs](Docs.md) [@Credits](Credits.md) [@Websites](Websites.md) [@Featured](Featured.md)
 
 # MarkWeb Documentation
 
