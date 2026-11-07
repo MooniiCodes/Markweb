@@ -2,10 +2,10 @@
 
 
 
-## MrMoonii: Developer and Owner
+# MrMoonii: Developer and Owner
 
 :::screen bottom
 
 [$Back](Homepage.md)
 
-## LeweckBanana: Image and sound artist
+# LeweckBanana: Image and sound artist
