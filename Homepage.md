@@ -3,7 +3,7 @@
 :::screen top
 [$# Home](Homepage.md) [$Docs](Docs.md) [$Credits](Credits.md) [$Websites](Websites.md) [$Featured](Featured.md)
 
-![Banner](IMG_0325.png)
+![Banner](banner.png)
 
 :::screen bottom
 
